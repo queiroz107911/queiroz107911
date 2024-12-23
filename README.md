@@ -1,16 +1,18 @@
-## Hi there 👋
+### Queiroz107911 - 
+👑 João Queiroz 👑 <br/>
 
-<!--
-**queiroz107911/queiroz107911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dev júnior- Iniciante em programação <br/>
+Buscando primeira vaga como dev júnior 
 
-Here are some ideas to get you started:
+### 📱 Social 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-queiroz-57399232b/)
+
+![Queiroz GitHub stats](https://github-readme-stats.vercel.app/api?username=queiroz107911&show_icons=true&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queiroz107911&layout=compact)
+
+
+### 💻 Tecnologias
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
