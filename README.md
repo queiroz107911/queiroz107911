@@ -3,4 +3,4 @@
 - 💻 Estudante de Desenvolvimento Backend e Data
 ---------------------------------------------------
 ## 🎯 Tecnologias
-Python | SQL | Git | Excel  
+Python | SQL | Git | Excel | Statistics  
