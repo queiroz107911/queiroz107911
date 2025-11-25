@@ -8,7 +8,6 @@
 - Análise de Dados
 - Engenharia de Dados
 - Ciência de Dados
-- Automação de Processos
 - DBA Analyst
 ---------------------------------------------------
 ## 🎯 Tecnologias e Ferramentas
