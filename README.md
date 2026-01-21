@@ -8,7 +8,8 @@
 - Análise de Dados
 - Engenharia de Dados
 - Ciência de Dados
-- DBA Analyst
+- Python Developer
 ---------------------------------------------------
 ## 🎯 Tecnologias e Ferramentas
-Python | SQL | Excel | Statistics | Power BI | ETL | EDA | Data Cleaning | Git
+Python | APIs | FastAPI | JWT | SQL | Excel | Statistics | Power BI | ETL | EDA | Data Cleaning | Git
+
