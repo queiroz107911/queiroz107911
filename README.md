@@ -13,3 +13,5 @@
 ## 🎯 Tecnologias e Ferramentas
 Python | APIs | FastAPI | JWT | SQL | Excel | Statistics | Power BI | ETL | EDA | Data Cleaning | Git
 
+## Portfólio
+- 
