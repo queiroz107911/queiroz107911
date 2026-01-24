@@ -1,17 +1,17 @@
-## :crown: Queiroz
-- 🎓 Estudei Engenharia de Redes/Comunicação na UnB(Universidade de Brasília) até o 4° semestre (2024-2026)
-- 🎓 Atualmente curso Ciência de Dados e IA no IESB e estou no 1° semestre (2026-2030)
-- 💻 Estudante de Desenvolvimento Backend e Data
-- 📊 Futuro Analista de Dados
+## 👑 Queiroz
 
-🎯 **Interesses:** 
-- Análise de Dados
-- Engenharia de Dados
-- Ciência de Dados
-- Python Developer
----------------------------------------------------
-## 🎯 Tecnologias e Ferramentas
-Python | APIs | FastAPI | JWT | SQL | Excel | Statistics | Power BI | ETL | EDA | Data Cleaning | Git
+- 🎓 Studied Network/Communication Engineering at UnB (University of Brasília) until the 4th semester (2024–2026)
+- 🎓 Currently studying Data Science and AI at Institute of Higher Education of Brasília (IESB) (1st semester, 2026–2030)
+- 💻 Backend and Data Development Student
 
-## Portfólio
-- 
+🎯 **Interests:**
+- Data Analysis  
+- Data Engineering  
+- Data Science | Quantitative Analyst
+- Python Backend Development  
+
+---
+
+## 🛠️ Technologies and Tools
+Backend: Python | Flask | FastAPI | REST | SQL | Git
+Data: Python | SQL | Pandas | EDA | ETL | Power BI | Excel | Matplotlib 
