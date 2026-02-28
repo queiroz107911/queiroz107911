@@ -15,4 +15,4 @@
 ## 🛠️ Technologies and Tools
 **Backend:** Python | Flask | FastAPI | REST | SQL | Git | JWT
 
-**Data:** Python | SQL | Python Libs | EDA | ETL/ELT | Power BI | Excel | Statistics | Pipelines | Big Data
+**Data:** Python | SQL | Python Libs | EDA | ETL/ELT | Power BI | Excel | Statistics | Pipelines | Big Data | Airflow | Docker
