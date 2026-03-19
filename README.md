@@ -16,3 +16,6 @@
 **Backend:** Python | Flask & FastAPI | RESTful APIs | PostgreSQL & MySQL | Git | JWT/Auth | RabbitMQ | Docker | Pytest | WSL | Redis | AWS
 
 **Data:** Python | PostgreSQL & MySQL | ETL/ELT | Power BI | Excel | Statistics | Pipelines | Big Data | Airflow | Docker | Git | dbt | Data Warehousing & Data Lake | AWS
+
+## Portfolio
+-> https://queiroz107911.github.io/
