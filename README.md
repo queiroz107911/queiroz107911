@@ -15,7 +15,7 @@
 ## 🛠️ Technologies and Tools
 **Backend:** Python | FastAPI | RESTful APIs | PostgreSQL & MySQL | Git | JWT/Auth | RabbitMQ | Docker | Pytest | Redis | Cloud Computing
 
-**Data:** Python | PostgreSQL & MySQL | ETL/ELT | Power BI | Excel | Pipelines | Big Data | Airflow | dbt | Data Warehousing & Data Lake | Cloud Computing
+**Data:** Python | PostgreSQL & MySQL | ETL/ELT | Power BI | Excel | Pipelines | Big Data | Airflow | dbt | DW & DL | Cloud Computing
 
 ## Portfolio
 -> https://queiroz107911.github.io/
