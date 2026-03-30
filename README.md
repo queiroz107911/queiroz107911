@@ -10,8 +10,3 @@ Data Engineer focused on building scalable data pipelines and data-driven system
 - Python, FastAPI, SQL, Pandas, PySpark | Airflow, dbt | Data Pipelines, ETL/ELT
 - PostgreSQL, Data Warehouse | Docker, AWS, Databricks | Power BI
 
-### 📇 Portfolio
--> https://queiroz107911.github.io/
-
-### 💼 Linkedin
--> https://www.linkedin.com/in/qz-joao/
