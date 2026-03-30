@@ -1,21 +1,17 @@
-## 👑 Queiroz
+## 👑 João Queiroz - Data Engineer
+Data Engineer focused on building scalable data pipelines and data-driven systems
 
-- 🎓 Studied Network/Communication Engineering at UnB (University of Brasília) until the 4th semester (2024–2026)
-- 🎓 Currently studying Data Science and AI at Centro Universitário de Brasília (CEUB) (1st semester, 2026–2029)
-- 💻 Backend and Data Development Student
-
-🎯 **Interests:**
-- Data Analysis  
-- Data Engineering  
-- Data Science
-- Python Backend Development  
+- 🎓 BSc in Network/Communication Engineering — University of Brasília (UnB) (2024–2026, incomplete)
+- 🎓 BSc in Data Science and Machine Learning — Centro Universitário de Brasília (CEUB) (2026–2029)
 
 ---
 
-## 🛠️ Technologies and Tools
-**Backend:** Python | FastAPI | RESTful APIs | PostgreSQL & MySQL | Git | JWT/Auth | RabbitMQ | Docker | Pytest | Redis | Cloud Computing
+### 🛠️ **Technologies and Tools**
+- Python, FastAPI, SQL, Pandas, PySpark | Airflow, dbt | Data Pipelines, ETL/ELT
+- PostgreSQL, Data Warehouse | Docker, AWS, Databricks | Power BI
 
-**Data:** Python | PostgreSQL & MySQL | ETL/ELT | Power BI | Excel | Pipelines | Big Data | Airflow | dbt | DW & DL | Cloud Computing
-
-## Portfolio
+### 📇 Portfolio
 -> https://queiroz107911.github.io/
+
+### 💼 Linkedin
+-> https://www.linkedin.com/in/qz-joao/
