@@ -7,7 +7,7 @@
 🎯 **Interests:**
 - Data Analysis  
 - Data Engineering  
-- Data Science | Quantitative Analyst
+- Data Science
 - Python Backend Development  
 
 ---
