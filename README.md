@@ -1,7 +1,7 @@
 ## 👑 João Queiroz - Data Engineer
 Data Engineer focused on building scalable data pipelines and data-driven systems
 
-- 🎓 BSc in Network/Communication Engineering — University of Brasília (UnB) (2024–2026, incomplete)
+- 🎓 BSc in Network/Communication Engineering — University of Brasília (UnB) (2024–2025, incomplete)
 - 🎓 BSc in Data Science and Machine Learning — Centro Universitário de Brasília (CEUB) (2026–2029)
 
 ---
