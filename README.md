@@ -7,6 +7,8 @@ Data Engineer focused on building scalable data pipelines and data-driven system
 ---
 
 ### 🛠️ **Technologies and Tools**
-- Python, FastAPI, SQL, Pandas, PySpark | Airflow, dbt | Data Pipelines, ETL/ELT
-- PostgreSQL, Data Warehouse | Docker, AWS, Databricks | Power BI
-
+Languages: Python, SQL (MySQL, PostgreSQL), Java, JavaScript
+Cloud: AWS (S3, Glue, Athena, Lambda), Docker, Terraform
+Frameworks: FastAPI, Flask, Spring Boot, Node.js / Express
+Tools: Power BI, Excel, Airflow, Pandas, PySpark, dbt, Databricks, Swagger
+Tests: Pytest, JUnit 5, Mockito, MockMvc, Jest
