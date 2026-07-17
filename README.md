@@ -7,12 +7,10 @@ Data Engineer focused on building scalable data pipelines and data-driven system
 ---
 
 ### 🛠️ **Technologies and Tools**
-Languages: Python, SQL (MySQL, PostgreSQL), Java, JavaScript
+Languages: Python, SQL (MySQL, PostgreSQL), JavaScript/Typescript
 
 Cloud: AWS (S3, Glue, Athena, Lambda), Docker, Terraform
 
-Frameworks: FastAPI, Flask, Spring Boot, Node.js / Express
+Frameworks: FastAPI, Django, Node.js / Express, React
 
 Tools: Power BI, Excel, Airflow, Pandas, PySpark, dbt, Databricks, Swagger
-
-Tests: Pytest, JUnit 5, Mockito, MockMvc, Jest
