@@ -1,14 +1,17 @@
-## 👑 João Queiroz — Engenheiro de Dados
-Engenheiro de Dados focado na construção de pipelines de dados escaláveis e sistemas orientados a dados
+## 👑 João Queiroz — Engenheiro de Software
+Engenheiro de Software com base em Desenvolvimento Full-Stack e Engenharia de Dados
 
-- Bacharelado em Engenharia de Redes/Comunicações — Universidade de Brasília (UnB) (2024–2025, incompleto)
 - Bacharelado em Ciência de Dados e Machine Learning — Centro Universitário de Brasília (CEUB) (2026–2029, em andamento)
+- Estagiário na Age Fibra Servicos de Informatica LTDA (05/2026 - Atual)
+- Tenho experiência profissional e experiência com diversos projetos práticos
 
 ### 🛠️ Tecnologias e Ferramentas
-Linguagens: Python, SQL (MySQL, PostgreSQL, Oracle), JavaScript/TypeScript
+- Back-end: TypeScript/JavaScript, Python, FastAPI, Node.js, Next.js, Fastify, Express, JWT, MySQL, SQL Server, PostgreSQL, Redis, MongoDB
 
-Cloud: AWS (S3, Glue, Athena, Lambda, CloudWatch), Docker, Terraform
+- Front-end: Next.js (App Router), React, HTML/CSS, consumo de APIs
 
-Frameworks: FastAPI, Django, Node.js / Express, React
+- Cloud: Git/GitHub, Gitlab, Docker, GitHub Actions, AWS, Terraform
 
-Ferramentas: Power BI, Excel, Airflow, PySpark, dbt, Databricks
+- Testes: Vitest, Jest, Supertest, Pytest
+
+- Dados: Python, Pandas, Power BI, Excel, Airflow, Databricks, PySpark, DBT, Data Lake/Data Warehouse
